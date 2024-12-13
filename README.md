@@ -33,13 +33,18 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 ├── 📂 Results
 │   ├── hasil case folding.csv
 │   ├── hasil cleansing.csv
+│   ├── hasil data sentimen.csv
+│   ├── hasil filtering.csv
+│   ├── hasil preprocessing.csv
 │   ├── hasil remove number.csv
 │   ├── hasil remove punctuation.csv
 │   ├── hasil remove single char.csv
-│   ├── hasil tokenizing.csv
+│   ├── hasil sentimen dengan label.csv
+│   ├── hasil sentimen negatif.csv
+│   ├── hasil sentimen positif.csv
+│   ├── hasil sentimen tanpa label.csv
 │   ├── hasil spell normalization.csv
-│   ├── hasil filtering.csv
-│   ├── hasil preprocessing.csv
+│   ├── hasil tokenizing.csv
 │   └── hasil.csv
 └── README.md
 ```
