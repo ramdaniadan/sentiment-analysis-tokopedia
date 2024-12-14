@@ -2,9 +2,8 @@
 
 Welcome to the **Tokopedia Reviews Sentiment Analysis** project! 🎉 This repository contains a complete pipeline for preprocessing, analyzing, and extracting insights from customer reviews of Tokopedia. The primary goal is to understand customer sentiment and identify key trends from their feedback.
 
----
 
-### 📖 **Project Overview**
+## 📖 **Project Overview**
 
 This project focuses on analyzing Tokopedia's customer reviews by applying the following steps:
 
@@ -19,9 +18,8 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 3. **Frequency and TF-IDF Analysis**: Calculating term frequency and weighting words based on importance.
 4. **Sentiment Analysis**: Using a lexicon-based approach to compute sentiment scores for reviews.
 
----
 
-### 📂 **Directory Structure**
+## 📂 **Directory Structure**
 
 ```plaintext
 📁 Tokopedia-Sentiment-Analysis
@@ -49,9 +47,8 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 └── README.md
 ```
 
----
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
 1. Clone the Repository
    ```plaintext
@@ -75,18 +72,15 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
    2. 02-sentiment-analisis-tokped.ipynb
    ```
 
----
-
-### 🛠️ Features
+## 🛠️ Features
 
 - Preprocessing Pipeline: Handles noisy data with comprehensive cleaning steps.
 - Visualization: Provides distribution charts of customer ratings and term frequency.
 - TF-IDF Analysis: Highlights the most important terms across reviews.
 - Sentiment Analysis: Computes sentiment scores based on an Indonesian lexicon.
 
----
 
-### 📘 Technologies Used
+## 📘 Technologies Used
 
 1. **Python**: Data manipulation and analysis
 2. **Pandas**: DataFrame operations
@@ -95,22 +89,21 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 5. **Scikit-learn**: Vectorization and TF-IDF
 6. **Sastrawi**: Stemming in Bahasa Indonesia
 
----
 
-### 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 - **Tokopedia**: For providing the reviews dataset.
 - **NLTK and Sastrawi**: For the amazing NLP tools.
 - **The Community**: For their valuable feedback and contributions.
 
----
 
-### 📬 Contact
+## 📬 Contact
 
 Have questions or feedback? Feel free to reach out:
 - **Email**: ramdaniadan.career@gmail.com
 - **GitHub**: [https://github.com/ramdaniadan](https://github.com/ramdaniadan/)
 
----
+
+##
 
 Thank you for visiting this repository! 🌟 If you find it useful, please give it a star and share it with others. 🙌
