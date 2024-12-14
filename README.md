@@ -22,7 +22,7 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 ## 📂 **Directory Structure**
 
 ```plaintext
-📁 Tokopedia-Sentiment-Analysis
+📁 sentiment-analysis-tokopedia
 ├── 📂 Datasets
 │   ├── reviews-tokopedia-juni.csv
 │   ├── normalisasi.xlsx
@@ -48,11 +48,11 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 ```
 
 
-## 🚀 Getting Started
+## 🚀 **Getting Started**
 
 1. Clone the Repository
    ```plaintext
-   git clone https://github.com/your-username/Tokopedia-Sentiment-Analysis.git
+   git clone https://github.com/ramdaniadan/Tokopedia-Sentiment-Analysis.git
    ```
 2. Install Dependencies
    Make sure you have Python installed. Then, install the required libraries:
@@ -72,7 +72,7 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
    2. 02-sentiment-analisis-tokped.ipynb
    ```
 
-## 🛠️ Features
+## 🛠️ **Features**
 
 - Preprocessing Pipeline: Handles noisy data with comprehensive cleaning steps.
 - Visualization: Provides distribution charts of customer ratings and term frequency.
@@ -80,7 +80,7 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 - Sentiment Analysis: Computes sentiment scores based on an Indonesian lexicon.
 
 
-## 📘 Technologies Used
+## 📘 **Technologies Used**
 
 1. **Python**: Data manipulation and analysis
 2. **Pandas**: DataFrame operations
@@ -90,17 +90,17 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 6. **Sastrawi**: Stemming in Bahasa Indonesia
 
 
-## 🙏 Acknowledgments
+## 🙏 **Acknowledgments**
 
 - **Tokopedia**: For providing the reviews dataset.
 - **NLTK and Sastrawi**: For the amazing NLP tools.
 - **The Community**: For their valuable feedback and contributions.
 
 
-## 📬 Contact
+## 📬 **Contact**
 
 Have questions or feedback? Feel free to reach out:
-- **Email**: ramdaniadan.career@gmail.com
+- **Email**: ramdaniadan1212@gmail.com
 - **GitHub**: [https://github.com/ramdaniadan](https://github.com/ramdaniadan/)
 
 
