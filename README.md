@@ -4,7 +4,7 @@ Welcome to the **Tokopedia Reviews Sentiment Analysis** project! 🎉 This repos
 
 ---
 
-## 📖 **Project Overview**
+### 📖 **Project Overview**
 
 This project focuses on analyzing Tokopedia's customer reviews by applying the following steps:
 
@@ -21,7 +21,7 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 
 ---
 
-## 📂 **Directory Structure**
+### 📂 **Directory Structure**
 
 ```plaintext
 📁 Tokopedia-Sentiment-Analysis
@@ -51,7 +51,7 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 1. Clone the Repository
    ```plaintext
@@ -77,7 +77,7 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 
 ---
 
-## 🛠️ Features
+### 🛠️ Features
 
 - Preprocessing Pipeline: Handles noisy data with comprehensive cleaning steps.
 - Visualization: Provides distribution charts of customer ratings and term frequency.
@@ -86,7 +86,7 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 
 ---
 
-## 📘 Technologies Used
+### 📘 Technologies Used
 
 1. **Python**: Data manipulation and analysis
 2. **Pandas**: DataFrame operations
@@ -97,7 +97,7 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 
 ---
 
-## 🙏 Acknowledgments
+### 🙏 Acknowledgments
 
 - **Tokopedia**: For providing the reviews dataset.
 - **NLTK and Sastrawi**: For the amazing NLP tools.
@@ -105,10 +105,10 @@ This project focuses on analyzing Tokopedia's customer reviews by applying the f
 
 ---
 
-📬 Contact
+### 📬 Contact
 
 Have questions or feedback? Feel free to reach out:
-- **Email**: ramdaniadan1212@gmail.com
+- **Email**: ramdaniadan.career@gmail.com
 - **GitHub**: [https://github.com/ramdaniadan](https://github.com/ramdaniadan/)
 
 ---
